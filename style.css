@@ -170,8 +170,9 @@ button {
     align-items: flex-start;
 }
 .profile > img {
+    border-radius: 50%;
     margin: 1em;
-    width: 3em;
+    width: 3.5em;
     margin-right: 2em;
 }
 
